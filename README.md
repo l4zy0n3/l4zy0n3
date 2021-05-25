@@ -39,8 +39,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" alt="react", width="60" height="60">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="react", width="60" height="60">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react", width="60" height="60">
-
 </p>
+
 ### Stats
 
 <p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l4zy0n3&show_icons=true&locale=en&theme=radical" alt="l4zy0n3" /></p>
