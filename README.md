@@ -1,22 +1,48 @@
-## Hi there 👋 This is **Yash**
+## Hey there 👋 This is **Yash**
 
-<!--
-**l4zy0n3/l4zy0n3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on [archinstall](https://github.com/archlinux/archinstall)
+- 🤓 I’m currently nerding on [archinstall](https://github.com/archlinux/archinstall)
 - 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on Python/DevOps/CLI tools and projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Python, Kubernetes, Ansible, Terraform, Openstack and Automation
-- 📫 How to reach me: mailto:tripathiyash97@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🔭 I’m currently working on [archinstall](https://github.com/archlinux/archinstall)
-- 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on Python/DevOps/CLI tools and projects
+- 🍻 I’m looking to collaborate on Python/DevOps/CLI projects
 - 💬 Ask me about Python, Kubernetes, Ansible, Terraform, Openstack, CI/CD and Automation
-- 📫 How to reach me: tripathiyash97@gmail.com
+- 📫 Mail me at: tripathiyash97@gmail.com
+
+<p align="left">
+<a href="https://www.linkedin.com/in/yash-tripathi-l4zy0n3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/th3_l4zy_0ne"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/></a>
+
+### Tools
+
+<p align="left"> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/> </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="react", width="60" height="60">
+  <img src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" alt="react", width="60" height="60">
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a> 
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
+<a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="60" height="60"/> </a>
+<a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> 
+  <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60"/> </a> 
+  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60"/> </a> 
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo" width="60" height="60"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>
+<a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain-wordmark.svg" alt="react", width="60" height="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="react", width="60" height="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="react", width="60" height="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original-wordmark.svg" alt="react", width="60" height="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain-wordmark.svg" alt="react", width="60" height="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="react", width="60" height="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" alt="react", width="60" height="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="react", width="60" height="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react", width="60" height="60">
+
+</p>
+### Stats
+
+<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l4zy0n3&show_icons=true&locale=en&theme=radical" alt="l4zy0n3" /></p>
+
+<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l4zy0n3&theme=radical" alt="l4zy0n3" /></p>
