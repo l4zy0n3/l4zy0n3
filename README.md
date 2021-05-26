@@ -1,5 +1,7 @@
 ## Hey there 👋 This is **Yash**
 
+![](https://komarev.com/ghpvc/?username=l4zy0n3&label=VIEWS)
+
 - 🤓 I’m currently nerding on [archinstall](https://github.com/archlinux/archinstall)
 - 🌱 I’m currently learning Rust
 - 🍻 I’m looking to collaborate on Python/DevOps/CLI projects
