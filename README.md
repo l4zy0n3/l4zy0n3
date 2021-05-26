@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Rust
 - 🍻 I’m looking to collaborate on Python/DevOps/CLI projects
 - 💬 Ask me about Python, Kubernetes, Ansible, Terraform, Openstack, CI/CD and Automation
+- 🧛 I can't stop thinking about Building PCs, physics, electric circuits, modding, playing CTFs.
 - 📫 Mail me at: tripathiyash97@gmail.com
 
 <p align="left">
