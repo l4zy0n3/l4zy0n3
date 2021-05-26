@@ -7,10 +7,11 @@
 - 🧛 I can't stop thinking about Building PCs, physics, electric circuits, modding, playing CTFs.
 - 📫 Mail me at: tripathiyash97@gmail.com
 
-<p align="left">
-<a href="https://www.linkedin.com/in/yash-tripathi-l4zy0n3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="20"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/th3_l4zy_0ne"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="20" height="20"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://tryhackme.com/p/l4zy"><img src="https://assets.tryhackme.com/img/logo/tryhackme_logo.png" alt="twitter" width="20" height="20"/></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/yash-tripathi-l4zy0n3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/th3_l4zy_0ne"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://tryhackme.com/p/l4zy"><img src="https://assets.tryhackme.com/img/logo/tryhackme_logo.png" alt="twitter" width="30" height="30"/></a>
+</p>
 
 ### Tools
 
@@ -44,7 +45,7 @@
 </p>
 
 ### Stats
-
-<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l4zy0n3&show_icons=true&locale=en&theme=radical" alt="l4zy0n3" /></p>
-
-<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l4zy0n3&theme=radical" alt="l4zy0n3" /></p>
+<p align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=l4zy0n3&show_icons=true&locale=en&theme=radical" alt="l4zy0n3" width="40%"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=l4zy0n3&theme=radical" alt="l4zy0n3" width="40%"/>
+</p>
