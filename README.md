@@ -9,7 +9,8 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/yash-tripathi-l4zy0n3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/th3_l4zy_0ne"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/></a>
+<a href="https://twitter.com/th3_l4zy_0ne"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://tryhackme.com/p/l4zy"><img src="https://assets.tryhackme.com/img/logo/tryhackme_logo.png" alt="twitter" width="40" height="40"/></a>
 
 ### Tools
 
