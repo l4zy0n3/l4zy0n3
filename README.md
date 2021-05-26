@@ -46,6 +46,6 @@
 
 ### Stats
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=l4zy0n3&show_icons=true&locale=en&theme=radical" alt="l4zy0n3" width="40%"/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=l4zy0n3&theme=radical" alt="l4zy0n3" width="40%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=l4zy0n3&show_icons=true&locale=en&theme=radical" alt="l4zy0n3" width="47%"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=l4zy0n3&theme=radical" alt="l4zy0n3" width="47%"/>
 </p>
