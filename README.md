@@ -3,10 +3,10 @@
 ![](https://komarev.com/ghpvc/?username=l4zy0n3&label=VIEWS)
 
 - 🤓 I’m currently nerding on [archinstall](https://github.com/archlinux/archinstall)
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Golang
 - 🍻 I’m looking to collaborate on Python/DevOps/CLI projects
 - 💬 Ask me about Python, Kubernetes, Ansible, Terraform, Openstack, CI/CD and Automation
-- 🧛 Only capable of talking about Building PCs, physics, electric circuits, modding, playing CTFs.
+- 🧛 Does talk a lot about Building PCs, physics, electric circuits, modding, playing CTFs.
 - 📫 Mail me at: tripathiyash97@gmail.com
 
 <p align="center">
