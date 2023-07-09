@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Golang
 - 🍻 I’m looking to collaborate on Python/DevOps/CLI projects
 - 💬 Ask me about Python, Kubernetes, CI/CD, and Automation
-- 🧛 I love building PCs, physics, circuits, and modding.
+- 👽 I love building PCs, physics, circuits, and modding.
 - 📫 Mail me at: tripathiyash97@gmail.com
 
 <p align="center">
