@@ -2,11 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=l4zy0n3&label=VIEWS)
 
-- 🤓 I’m currently working on [archinstall](https://github.com/archlinux/archinstall)
+- 🤓 I’m currently working on [fleet](https://github.com/rancher/fleet) and [archinstall](https://github.com/archlinux/archinstall)
+- 👨‍💻@[fleet](https://github.com/rancher/fleet)
 - 🌱 I’m currently learning Golang
 - 🍻 I’m looking to collaborate on Python/DevOps/CLI projects
-- 💬 Ask me about Python, Kubernetes, Terraform, CI/CD, and Automation
-- 🧛 Does talk a lot about Building PCs, physics, circuits, modding, and playing CTFs.
+- 💬 Ask me about Python, Kubernetes, CI/CD, and Automation
+- 🧛 I love building PCs, physics, circuits, and modding.
 - 📫 Mail me at: tripathiyash97@gmail.com
 
 <p align="center">
@@ -28,8 +29,6 @@
 <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain-wordmark.svg" alt="react", width="60" height="60">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain-wordmark.svg" alt="react", width="60" height="60">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="react", width="60" height="60">
 </p>
 
