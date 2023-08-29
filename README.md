@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=l4zy0n3&label=VIEWS)
 
 - 🤓 I’m currently working on [fleet](https://github.com/rancher/fleet) and [archinstall](https://github.com/archlinux/archinstall)
-- 👨‍💻@[fleet](https://github.com/rancher/fleet)
+- 👨‍💻 QA @[mapps](https://github.com/rancher/charts)
 - 🌱 I’m currently learning Golang
 - 🍻 I’m looking to collaborate on Python/DevOps/CLI projects
 - 💬 Ask me about Python, Kubernetes, CI/CD, and Automation
