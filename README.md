@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=l4zy0n3&label=VIEWS)
 
-- 🤓 I’m currently working on [mapps](https://github.com/rancher/charts) and [archinstall](https://github.com/archlinux/archinstall)
-- 👨‍💻 QA @ [mapps](https://github.com/rancher/charts)
+- 🤓 I’m currently working on [rancher-charts](https://github.com/rancher/charts) and [archinstall](https://github.com/archlinux/archinstall)
+- 👨‍💻 QA @ [rancher-charts](https://github.com/rancher/charts)
 - 🌱 I’m currently learning Golang
 - 🍻 I’m looking to collaborate on Python/DevOps/CLI projects
 - 💬 Ask me about Python, Kubernetes, CI/CD, and Automation
