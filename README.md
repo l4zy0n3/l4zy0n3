@@ -22,6 +22,3 @@
 | Nice Nano v2 Security Key | OpenSK, FIDO2, NFC-A, R503 Fingerprint | Research |
 | ESP32-S3 Matrix Board | GhostESP/Marauder, WS2812B, WiFi RSSI Viz | Building |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=l4zy0n3&theme=radical" alt="l4zy0n3 streak" width="47%"/>
-</p>
